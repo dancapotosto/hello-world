@@ -1,2 +1,3 @@
 # hello-world
-My hello world repo
+My hello world repo.
+Checking this out.
